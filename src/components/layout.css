@@ -620,3 +620,9 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+.nekolik-vet {
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 140%;
+  font-size: 24pt;
+}

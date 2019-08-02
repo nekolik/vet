@@ -35,11 +35,11 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
+        {/* <footer>
+          <a href="https://cs.wikipedia.org/wiki/N%C4%9Bkolik_v%C4%9Bt#Signat%C3%A1%C5%99i">
+            Roku 1989
+          </a>
+        </footer> */}
       </div>
     </>
   )
